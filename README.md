@@ -1,0 +1,1 @@
+This repo contains a bug report for Expo CLI. The bug occurs when attempting to run a project that uses the `expo-status-bar` module. The CLI throws an error indicating that it cannot resolve the module. This bug can be solved by ensuring the module is correctly installed and linked.
